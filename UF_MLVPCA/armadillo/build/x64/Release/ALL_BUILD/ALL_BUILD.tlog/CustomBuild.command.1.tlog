@@ -1,0 +1,10 @@
+^C:\USERS\CFLEE\DOCUMENTS\0_UFL\PHD\RESEARCH\LVPCA\ARMADILLO\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/cflee/Documents/0_UFL/PhD/Research/LVPCA/armadillo -BC:/Users/cflee/Documents/0_UFL/PhD/Research/LVPCA/armadillo/build --check-stamp-file C:/Users/cflee/Documents/0_UFL/PhD/Research/LVPCA/armadillo/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

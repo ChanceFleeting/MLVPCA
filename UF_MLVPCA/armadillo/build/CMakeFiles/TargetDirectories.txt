@@ -1,0 +1,8 @@
+C:/Users/cflee/Documents/0_UFL/PhD/Research/LVPCA/armadillo/build/CMakeFiles/armadillo.dir
+C:/Users/cflee/Documents/0_UFL/PhD/Research/LVPCA/armadillo/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/cflee/Documents/0_UFL/PhD/Research/LVPCA/armadillo/build/CMakeFiles/INSTALL.dir
+C:/Users/cflee/Documents/0_UFL/PhD/Research/LVPCA/armadillo/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/cflee/Documents/0_UFL/PhD/Research/LVPCA/armadillo/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/cflee/Documents/0_UFL/PhD/Research/LVPCA/armadillo/build/tests1/CMakeFiles/smoke_test.dir
+C:/Users/cflee/Documents/0_UFL/PhD/Research/LVPCA/armadillo/build/tests1/CMakeFiles/RUN_TESTS.dir
+C:/Users/cflee/Documents/0_UFL/PhD/Research/LVPCA/armadillo/build/tests1/CMakeFiles/INSTALL.dir

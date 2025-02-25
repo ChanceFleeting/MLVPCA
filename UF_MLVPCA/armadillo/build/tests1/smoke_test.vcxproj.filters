@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\cflee\Documents\0_UFL\PhD\Research\LVPCA\armadillo\tests1\smoke_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\cflee\Documents\0_UFL\PhD\Research\LVPCA\armadillo\tests1\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{70D87CAA-6CB3-33A2-8EE8-3D4B0153648D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

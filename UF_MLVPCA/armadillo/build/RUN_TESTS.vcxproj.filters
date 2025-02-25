@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\cflee\Documents\0_UFL\PhD\Research\LVPCA\armadillo\build\CMakeFiles\78ba85ff7a39cc44ab3be971757fabbf\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{1E83DAB5-CA97-3FB6-B12D-BB4465BAF40B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
